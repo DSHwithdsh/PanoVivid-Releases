@@ -1,0 +1,2 @@
+c9dbbb0c94e03434fe8f5ecfcf1303f3a6b3f5bcb91eefc679cd39109a833c94  PanoVivid-1.0.0-b6209022-API26-unsigned.hap
+0110c5460580cca036569859d1982737bdddce8a0ab510236da8abe8ad3982b1  PanoVivid-1.0.0-b6209022-API26-core-unsigned.hap
