@@ -1,2 +1,2 @@
-49f8294d129f5c6cb187cf0225f520875868e4e5515ac67bb409c8188f70acbe  PanoVivid-1.0.3-b6209174-API26-unsigned.hap
-1cc1ee58faccabb4414f843572f8fb697cbed33b3017df6f3aa98522b6ebbaeb  PanoVivid-1.0.3-b6209174-API26-core-unsigned.hap
+4e84e981c390235dc37e311f86c8d0e0457d84b56c056dbbce920e8e96b9fc41  PanoVivid-1.0.4-b6209196-API26-core-unsigned.hap
+2f626fc4650b8a457b8de70cd6c2387b0a567b0c3e564f6fd50e52fc66defca4  PanoVivid-1.0.4-b6209196-API26-unsigned.hap
