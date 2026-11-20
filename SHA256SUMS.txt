@@ -1,3 +1,3 @@
-b7607349bbc65d4b50698b662393fd660a6a7a061dcc6bc8cfcb957cb0cf3350  PanoVivid-1.0.5-b6209201-API26-core-unsigned.hap
-f5e9985e191fb779b4341c5681a04130fa3d3ffecb27573832caf1c74ada02ac  PanoVivid-1.0.5-b6209201-API26-unsigned.hap
-cd17707b657b74200c84601ed75aee5312859001646f17e9b62edaeeb1699919  PanoVivid-1.0.5-b15-ios-arm64-unsigned.ipa
+cd7657c2c4e1e8486774c0d72ce43bf34e9cea5b27399b58daea0abf62c474af  PanoVivid-1.0.6-b6209202-API26-core-unsigned.hap
+b65bd1c34a7600927b73075eae42f18c1702072b0612bf8af18dd1a02a94a821  PanoVivid-1.0.6-b6209202-API26-unsigned.hap
+daecb797ddf7c1274ad271b7f7662a93d0643ff79e9dd2439b290dfdce1f462c  PanoVivid-1.0.6-b17-ios-arm64-unsigned.ipa
