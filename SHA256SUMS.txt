@@ -1,3 +1,5 @@
 7864f4628ef48a2ac8c6a0f12bf871c0b13be06ab8b4996b04434419168260d1  PanoVivid-1.0.7-b6209207-API26-core-unsigned.hap
 ed7186501c09b1ffd27222e47b46bafb0c1e7d6f9aa814666feed289bea51cfa  PanoVivid-1.0.7-b6209207-API26-unsigned.hap
-448c1b1d29d70a8da66b870bc31d1cec6e163a2ce07ed00d3a91af0e3121527f  PanoVivid-1.0.7-b24-ios-arm64-unsigned.ipa
+642d049c2c54b4245190e2d1c10d453c3feaa01096c4d75954afed4fe42d72a4  PanoVivid-1.0.7-b25-ios-arm64-unsigned.ipa
+f6d553c3468a8d19be555eb57330529bb162518b467732b0ba0d4e8c61169e98  PanoVivid-Android-1.0.7-android.8-preview.apk
+cb3a05a3f5a734503f64ea36beaee95a00cc2fb01bc959a4f41f321d98ee1371  PanoVivid-Android-1.0.7-android.8-unsigned.apk

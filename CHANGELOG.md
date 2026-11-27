@@ -28,6 +28,14 @@
 
 [完整功能与安装](RELEASE_1.0.7.md)
 
+## iOS / iPadOS b25
+
+在 b24 基础上升级「前进视角」为两阶段实时球面光流估算，支持在相机连续旋转（模拟器实测 42°/s）中持续跟踪行进方向。[完整说明](RELEASE_1.0.7_IOS.md)
+
+## Android 1.0.7-android.8
+
+Android 首次完整对齐 1.0.7：新增两阶段实时球面前进方向跟随与相机旋转补偿、按需节能渲染与时间戳兜底、单眼长边 FOV 与转屏重绘、V1/V2/EBML 姿态定位、独立投影/立体记忆、90°/270° 旋转视频 FSR1/Anime4K/插帧、恢复 Kyant AGSL 实时液态玻璃底栏，并修复 B 站 DASH/非 443 CDN/WebView 输入法、SAF/WAL/PiP/字幕等全链路问题。[完整说明](RELEASE_1.0.7_ANDROID.md)
+
 ## iOS / iPadOS b24
 
 上一个正式发布的 iOS 包为 1.0.6（b17）。本次汇总其后 b18 至 b24 的改动。

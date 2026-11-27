@@ -1,10 +1,11 @@
 # 幻瞳界域 1.0.7
 
-幻瞳界域是面向 HarmonyOS、iPhone 和 iPad 的普通视频与 HDR 360° 全景播放器。
+幻瞳界域是面向 HarmonyOS、iPhone、iPad 和 Android 的普通视频与 HDR 360° 全景播放器。
 
 - [下载 1.0.7](https://github.com/DSHwithdsh/PanoVivid-Releases/releases/tag/v1.0.7) · [更新日志](CHANGELOG.md) · [SHA-256 校验清单](SHA256SUMS.txt)
 - [HarmonyOS b6209207 功能与安装说明](RELEASE_1.0.7.md)
-- [iOS / iPadOS b24 功能与安装说明](RELEASE_1.0.7_IOS.md)
+- [iOS / iPadOS b25 功能与安装说明](RELEASE_1.0.7_IOS.md)
+- [Android 1.0.7-android.8 功能与安装说明](RELEASE_1.0.7_ANDROID.md)
 
 ## HarmonyOS 使用指南
 
